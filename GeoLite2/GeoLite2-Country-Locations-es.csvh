@@ -1,0 +1,250 @@
+geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_name
+49518,es,AF,"África",RW,Ruanda
+51537,es,AF,"África",SO,Somalia
+69543,es,AS,Asia,YE,Yemen
+99237,es,AS,Asia,IQ,Irak
+102358,es,AS,Asia,SA,"Arabia Saudí"
+130758,es,AS,Asia,IR,Irán
+146669,es,EU,Europa,CY,Chipre
+149590,es,AF,"África",TZ,Tanzania
+163843,es,AS,Asia,SY,Siria
+174982,es,AS,Asia,AM,Armenia
+192950,es,AF,"África",KE,Kenia
+203312,es,AF,"África",CD,"Congo Democrático"
+223816,es,AF,"África",DJ,Yibuti
+226074,es,AF,"África",UG,Uganda
+239880,es,AF,"África",CF,"República Centroafricana"
+241170,es,AF,"África",SC,Seychelles
+248816,es,AS,Asia,JO,Jordania
+272103,es,AS,Asia,LB,Líbano
+285570,es,AS,Asia,KW,Kuwait
+286963,es,AS,Asia,OM,Omán
+289688,es,AS,Asia,QA,Qatar
+290291,es,AS,Asia,BH,Bahréin
+290557,es,AS,Asia,AE,"Emiratos Árabes Unidos"
+294640,es,AS,Asia,IL,Israel
+298795,es,AS,Asia,TR,Turquía
+337996,es,AF,"África",ET,Etiopía
+338010,es,AF,"África",ER,Eritrea
+357994,es,AF,"África",EG,Egipto
+366755,es,AF,"África",SD,Sudán
+390903,es,EU,Europa,GR,Grecia
+433561,es,AF,"África",BI,Burundi
+453733,es,EU,Europa,EE,Estonia
+458258,es,EU,Europa,LV,Letonia
+587116,es,AS,Asia,AZ,Azerbaiyán
+597427,es,EU,Europa,LT,Lituania
+607072,es,EU,Europa,SJ,"Svalbard y Jan Mayen"
+614540,es,AS,Asia,GE,Georgia
+617790,es,EU,Europa,MD,Moldavia
+630336,es,EU,Europa,BY,Bielorrusia
+660013,es,EU,Europa,FI,Finlandia
+661882,es,EU,Europa,AX,"Islas de Åland"
+690791,es,EU,Europa,UA,Ucrania
+718075,es,EU,Europa,MK,Macedonia
+719819,es,EU,Europa,HU,Hungría
+732800,es,EU,Europa,BG,Bulgaria
+783754,es,EU,Europa,AL,Albania
+798544,es,EU,Europa,PL,Polonia
+798549,es,EU,Europa,RO,Rumanía
+831053,es,EU,Europa,XK,Kosovo
+878675,es,AF,"África",ZW,Zimbawe
+895949,es,AF,"África",ZM,Zambia
+921929,es,AF,"África",KM,Comoras
+927384,es,AF,"África",MW,Malaui
+932692,es,AF,"África",LS,Lesotho
+933860,es,AF,"África",BW,Botsuana
+934292,es,AF,"África",MU,Mauricio
+934841,es,AF,"África",SZ,Suazilandia
+935317,es,AF,"África",RE,Reunión
+953987,es,AF,"África",ZA,Sudáfrica
+1024031,es,AF,"África",YT,Mayotte
+1036973,es,AF,"África",MZ,Mozambique
+1062947,es,AF,"África",MG,Madagascar
+1149361,es,AS,Asia,AF,Afganistán
+1168579,es,AS,Asia,PK,Pakistán
+1210997,es,AS,Asia,BD,Bangladesh
+1218197,es,AS,Asia,TM,Turkmenistán
+1220409,es,AS,Asia,TJ,Tayikistán
+1227603,es,AS,Asia,LK,"Sri Lanka"
+1252634,es,AS,Asia,BT,Bután
+1269750,es,AS,Asia,IN,India
+1282028,es,AS,Asia,MV,Maldivas
+1282588,es,AS,Asia,IO,"Territorio Británico del Océano Índico"
+1282988,es,AS,Asia,NP,Nepal
+1327865,es,AS,Asia,MM,"Myanmar [Birmania]"
+1512440,es,AS,Asia,UZ,Uzbekistán
+1522867,es,AS,Asia,KZ,Kazajstán
+1527747,es,AS,Asia,KG,Kirguistán
+1546748,es,AN,Antártida,TF,"Territorios Australes Franceses"
+1547376,es,AS,Asia,CC,"Islas Cocos"
+1559582,es,OC,Oceanía,PW,Palaos
+1562822,es,AS,Asia,VN,Vietnam
+1605651,es,AS,Asia,TH,Tailandia
+1643084,es,AS,Asia,ID,Indonesia
+1655842,es,AS,Asia,LA,Laos
+1668284,es,AS,Asia,TW,Taiwán
+1694008,es,AS,Asia,PH,Filipinas
+1733045,es,AS,Asia,MY,Malasia
+1814991,es,AS,Asia,CN,China
+1819730,es,AS,Asia,HK,"Hong Kong"
+1820814,es,AS,Asia,BN,Brunéi
+1821275,es,AS,Asia,MO,Macao
+1831722,es,AS,Asia,KH,Camboya
+1835841,es,AS,Asia,KR,"Corea del Sur"
+1861060,es,AS,Asia,JP,Japón
+1873107,es,AS,Asia,KP,"Corea del Norte"
+1880251,es,AS,Asia,SG,Singapur
+1899402,es,OC,Oceanía,CK,"Islas Cook"
+1966436,es,OC,Oceanía,TL,"Timor Oriental"
+2017370,es,EU,Europa,RU,Rusia
+2029969,es,AS,Asia,MN,Mongolia
+2077456,es,OC,Oceanía,AU,Australia
+2078138,es,AS,Asia,CX,"Isla Christmas"
+2080185,es,OC,Oceanía,MH,"Islas Marshall"
+2081918,es,OC,Oceanía,FM,Micronesia
+2088628,es,OC,Oceanía,PG,"Papúa-Nueva Guinea"
+2103350,es,OC,Oceanía,SB,"Islas Salomón"
+2110297,es,OC,Oceanía,TV,Tuvalu
+2110425,es,OC,Oceanía,NR,Nauru
+2134431,es,OC,Oceanía,VU,Vanuatu
+2139685,es,OC,Oceanía,NC,"Nueva Caledonia"
+2155115,es,OC,Oceanía,NF,"Isla Norfolk"
+2186224,es,OC,Oceanía,NZ,"Nueva Zelanda"
+2205218,es,OC,Oceanía,FJ,Fiyi
+2215636,es,AF,"África",LY,Libia
+2233387,es,AF,"África",CM,Camerún
+2245662,es,AF,"África",SN,Senegal
+2260494,es,AF,"África",CG,"Congo [República]"
+2264397,es,EU,Europa,PT,Portugal
+2275384,es,AF,"África",LR,Liberia
+2287781,es,AF,"África",CI,"Costa de Marfil"
+2300660,es,AF,"África",GH,Ghana
+2309096,es,AF,"África",GQ,"Guinea Ecuatorial"
+2328926,es,AF,"África",NG,Nigeria
+2361809,es,AF,"África",BF,"Burkina Faso"
+2363686,es,AF,"África",TG,Togo
+2372248,es,AF,"África",GW,Guinea-Bissáu
+2378080,es,AF,"África",MR,Mauritania
+2395170,es,AF,"África",BJ,Benín
+2400553,es,AF,"África",GA,Gabón
+2403846,es,AF,"África",SL,"Sierra Leona"
+2410758,es,AF,"África",ST,"Santo Tomé y Príncipe"
+2411586,es,EU,Europa,GI,Gibraltar
+2413451,es,AF,"África",GM,Gambia
+2420477,es,AF,"África",GN,Guinea
+2434508,es,AF,"África",TD,Chad
+2440476,es,AF,"África",NE,Níger
+2453866,es,AF,"África",ML,Mali
+2464461,es,AF,"África",TN,Túnez
+2510769,es,EU,Europa,ES,España
+2542007,es,AF,"África",MA,Marruecos
+2562770,es,EU,Europa,MT,Malta
+2589581,es,AF,"África",DZ,Argelia
+2622320,es,EU,Europa,FO,"Islas Feroe"
+2623032,es,EU,Europa,DK,Dinamarca
+2629691,es,EU,Europa,IS,Islandia
+2635167,es,EU,Europa,GB,"Reino Unido"
+2658434,es,EU,Europa,CH,Suiza
+2661886,es,EU,Europa,SE,Suecia
+2750405,es,EU,Europa,NL,Holanda
+2782113,es,EU,Europa,AT,Austria
+2802361,es,EU,Europa,BE,Bélgica
+2921044,es,EU,Europa,DE,Alemania
+2960313,es,EU,Europa,LU,Luxemburgo
+2963597,es,EU,Europa,IE,Irlanda
+2993457,es,EU,Europa,MC,Mónaco
+3017382,es,EU,Europa,FR,Francia
+3041565,es,EU,Europa,AD,Andorra
+3042058,es,EU,Europa,LI,Liechtenstein
+3042142,es,EU,Europa,JE,Jersey
+3042225,es,EU,Europa,IM,"Isla de Man"
+3042362,es,EU,Europa,GG,Guernsey
+3057568,es,EU,Europa,SK,Eslovaquia
+3077311,es,EU,Europa,CZ,"República Checa"
+3144096,es,EU,Europa,NO,Noruega
+3164670,es,EU,Europa,VA,"Ciudad del Vaticano"
+3168068,es,EU,Europa,SM,"San Marino"
+3175395,es,EU,Europa,IT,Italia
+3190538,es,EU,Europa,SI,Eslovenia
+3194884,es,EU,Europa,ME,Montenegro
+3202326,es,EU,Europa,HR,Croacia
+3277605,es,EU,Europa,BA,Bosnia-Herzegovina
+3351879,es,AF,"África",AO,Angola
+3355338,es,AF,"África",NA,Namibia
+3370751,es,AF,"África",SH,"Santa Elena"
+3374084,es,NA,Norteamérica,BB,Barbados
+3374766,es,AF,"África",CV,"Cabo Verde"
+3378535,es,SA,Sudamérica,GY,Guyana
+3381670,es,SA,Sudamérica,GF,"Guayana Francesa"
+3382998,es,SA,Sudamérica,SR,Surinam
+3424932,es,NA,Norteamérica,PM,"San Pedro y Miquelón"
+3425505,es,NA,Norteamérica,GL,Groenlandia
+3437598,es,SA,Sudamérica,PY,Paraguay
+3439705,es,SA,Sudamérica,UY,Uruguay
+3469034,es,SA,Sudamérica,BR,Brasil
+3474414,es,SA,Sudamérica,FK,"Islas Malvinas"
+3474415,es,AN,Antártida,GS,"Islas Georgia del Sur y Sandwich del Sur"
+3489940,es,NA,Norteamérica,JM,Jamaica
+3508796,es,NA,Norteamérica,DO,"República Dominicana"
+3562981,es,NA,Norteamérica,CU,Cuba
+3570311,es,NA,Norteamérica,MQ,Martinica
+3572887,es,NA,Norteamérica,BS,Bahamas
+3573345,es,NA,Norteamérica,BM,Bermudas
+3573511,es,NA,Norteamérica,AI,Anguila
+3573591,es,NA,Norteamérica,TT,"Trinidad y Tobago"
+3575174,es,NA,Norteamérica,KN,"San Cristóbal y Nieves"
+3575830,es,NA,Norteamérica,DM,Dominica
+3576396,es,NA,Norteamérica,AG,"Antigua y Barbuda"
+3576468,es,NA,Norteamérica,LC,"Santa Lucía"
+3576916,es,NA,Norteamérica,TC,"Islas Turcas y Caicos"
+3577279,es,NA,Norteamérica,AW,Aruba
+3577718,es,NA,Norteamérica,VG,"Islas Vírgenes"
+3577815,es,NA,Norteamérica,VC,"San Vicente y las Granadinas"
+3578097,es,NA,Norteamérica,MS,Montserrat
+3578421,es,NA,Norteamérica,MF,"San Martín"
+3578476,es,NA,Norteamérica,BL,"San Bartolomé"
+3579143,es,NA,Norteamérica,GP,Guadalupe
+3580239,es,NA,Norteamérica,GD,Granada
+3580718,es,NA,Norteamérica,KY,"Islas Caimán"
+3582678,es,NA,Norteamérica,BZ,Belice
+3585968,es,NA,Norteamérica,SV,"El Salvador"
+3595528,es,NA,Norteamérica,GT,Guatemala
+3608932,es,NA,Norteamérica,HN,Honduras
+3617476,es,NA,Norteamérica,NI,Nicaragua
+3624060,es,NA,Norteamérica,CR,"Costa Rica"
+3625428,es,SA,Sudamérica,VE,Venezuela
+3658394,es,SA,Sudamérica,EC,Ecuador
+3686110,es,SA,Sudamérica,CO,Colombia
+3703430,es,NA,Norteamérica,PA,Panamá
+3723988,es,NA,Norteamérica,HT,Haití
+3865483,es,SA,Sudamérica,AR,Argentina
+3895114,es,SA,Sudamérica,CL,Chile
+3923057,es,SA,Sudamérica,BO,Bolivia
+3932488,es,SA,Sudamérica,PE,Perú
+3996063,es,NA,Norteamérica,MX,México
+4030656,es,OC,Oceanía,PF,"Polinesia Francesa"
+4030699,es,OC,Oceanía,PN,"Islas Pitcairn"
+4030945,es,OC,Oceanía,KI,Kiribati
+4031074,es,OC,Oceanía,TK,Tokelau
+4032283,es,OC,Oceanía,TO,Tonga
+4034749,es,OC,Oceanía,WF,"Wallis y Futuna"
+4034894,es,OC,Oceanía,WS,Samoa
+4036232,es,OC,Oceanía,NU,"Isla Niue"
+4041468,es,OC,Oceanía,MP,"Islas Marianas del Norte"
+4043988,es,OC,Oceanía,GU,Guam
+4566966,es,NA,Norteamérica,PR,"Puerto Rico"
+4796775,es,NA,Norteamérica,VI,"Islas Vírgenes de los Estados Unidos"
+5854968,es,OC,Oceanía,UM,"Islas menores alejadas de los Estados Unidos"
+5880801,es,OC,Oceanía,AS,"Samoa Americana"
+6251999,es,NA,Norteamérica,CA,Canadá
+6252001,es,NA,Norteamérica,US,"Estados Unidos"
+6254930,es,AS,Asia,PS,"Territorios Palestinos"
+6255147,es,AS,Asia,,
+6255148,es,EU,Europa,,
+6290252,es,EU,Europa,RS,Serbia
+6697173,es,AN,Antártida,AQ,Antártida
+7609695,es,NA,Norteamérica,SX,"San Martín"
+7626836,es,NA,Norteamérica,CW,Curazao
+7626844,es,NA,Norteamérica,BQ,Bonaire
+7909807,es,AF,"África",SS,"Sudán del Sur"
