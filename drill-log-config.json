@@ -1,0 +1,14 @@
+"log": {
+      "type": "log",
+      "extensions": [
+        "log"
+      ],
+      "fieldNames": [
+        "date",
+        "time",
+        "pid",
+        "action",
+        "query"
+      ],
+      "pattern": "(\\d{6})\\s(\\d{2}:\\d{2}:\\d{2})\\s+(\\d+)\\s(\\w+)\\s+(.+)"
+    }
