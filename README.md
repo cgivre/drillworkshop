@@ -9,3 +9,5 @@ Welcome to the Apache Drill workshop by Dark Labs!  This 90 minute workshop will
 If you have any questions, please contact me at: givre_charles@bah.com.  
 Don't forget to check out my blog at http://thedataist.com
 
+## Drill Version
+For this class we will be using a special "pre-release" version of Drill which is available here: https://drive.google.com/open?id=0Bygp_V8Ca-cpZWhYMkxoTlpJYUU.
