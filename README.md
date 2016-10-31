@@ -1,9 +1,10 @@
 # Apache Drill Workshop
-Welcome to the Apache Drill workshop by Dark Labs!  This 90 minute workshop will cover:
+Welcome to the Apache Drill workshop by Dark Labs!  This 180 minute workshop will cover:
 * Overview of Apache Drill
 * Querying simple data
 * Querying nested data
 * Connecting external data sources
+* Writing User Defined Functions (UDFs)
 * Using Python to interact with Drill
 
 If you have any questions, please contact me at: givre_charles@bah.com.  
