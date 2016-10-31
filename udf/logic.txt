@@ -1,0 +1,23 @@
+ int x = ???
+        String result = "";
+        if ( x == 0 ){
+            result = "Zero";
+        } else if( x == 1 ){
+            result = "One";
+        } else if( x == 2 ){
+            result = "Two";
+        } else if( x == 3 ){
+            result = "Three";
+        } else if( x == 4 ) {
+            result = "Four";
+        } else if( x == 5 ){
+            result = "Five";
+        } else if( x == 6 ){
+            result = "Six";
+        } else if( x == 7 ){
+            result = "Seven";
+        } else if( x == 8) {
+            result = "Eight";
+        }else if( x == 9){
+            result = "Nine";
+        }
